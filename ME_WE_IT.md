@@ -1,7 +1,5 @@
 # Me-We-It: A Standard for Responsible AI
 
-## Overview
-
 This is an Open Suggestion designed to clarify the process of building AI by exposing the steps that 
 go into building it responsibly. It is written from the frontlines by the actual builders, users, and 
 stakeholders who have seen the value and damage Artificial Intelligence (AI) can deliver. The goal is 
@@ -24,7 +22,7 @@ privacy and safety concerns, steal intellectual property not created for the pro
 biases that cause harm. Without careful consideration and planning, we risk creating AI systems that 
 worsen the very problems we seek to solve.
 
-## Open Suggestion
+## Framework
 
 These are the first questions and considerations we believe every AI team and individual builder 
 should take everyday to ensure we are releasing more ethical AI models. They are intended to be 
@@ -56,8 +54,6 @@ much human bias as possible.
 
 **It** - The questions we should ask individuals and the group as they relate to the model being 
 created and the impact it can have on our world.
-
-## Framework
 
 ### Step 1. Training - Data Selection and Ingestion
 
