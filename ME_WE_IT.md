@@ -1,4 +1,4 @@
-# Me-We-It: A Standard for Responsible AI
+# A Standard for Responsible AI
 
 This is an Open Suggestion designed to clarify the process of building AI by exposing the steps that 
 go into building it responsibly. It is written from the frontlines by the actual builders, users, and 
