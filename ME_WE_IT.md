@@ -57,7 +57,7 @@ created and the impact it can have on our world.
 
 ### Step 1. Training - Data Selection and Ingestion
 
-Me - The necessary questions to ask myself before starting this part of the process. Answers should 
+**Me** - The necessary questions to ask myself before starting this part of the process. Answers should 
 be saved so you can look back at how your thought process evolves.
 
 * What are the reasons for me selecting this training data, and how does that selection align with my 
@@ -88,7 +88,7 @@ be saved so you can look back at how your thought process evolves.
   group who can help me identify my bias being deployed when selecting data?
 * How do I think this training data will benefit this model?
 
-We - The questions we should ask ourselves as a working group before starting this part of the process. Answers should be saved so we can look back at how our thought process evolves.
+**We** - The questions we should ask ourselves as a working group before starting this part of the process. Answers should be saved so we can look back at how our thought process evolves.
 
 * What is the group's intent for training this model?
 * Who collaborated in the process of building the training data strategy and selection?
@@ -105,7 +105,7 @@ We - The questions we should ask ourselves as a working group before starting th
   have we considered GDPR, CCPA or any other systems for managing data sources?
 * What percentage of my training data am I saving for testing and how are we selecting it?
 
-It - The questions we should ask ourselves of the algorithms or models before starting this part of the process. Answers should be saved so we can look back at how our thought process evolves.
+**It** - The questions we should ask ourselves of the algorithms or models before starting this part of the process. Answers should be saved so we can look back at how our thought process evolves.
 
 * Do I have means to compensate should part of this data set be discovered to be illegal, unreliable, 
   or unacceptable at some point in the future?
@@ -122,7 +122,7 @@ It - The questions we should ask ourselves of the algorithms or models before st
 
 ### Step 2. Building - Creation or Selection of Algorithms and Models
 
-Me - The questions I should ask myself before starting this part of the process. Answers should be 
+**Me** - The questions I should ask myself before starting this part of the process. Answers should be 
 saved so you can look back at how your thought process evolves.
 
 * What do I intend for this model to do, and why am I training it?
@@ -137,7 +137,7 @@ saved so you can look back at how your thought process evolves.
 * What are my human biases that I possess that impacted my goals and reasoning?
 * If I didn't write the model from scratch, where did it come from and how was it initially trained?
 
-We - The questions we should ask ourselves as a working group before starting this part of the 
+**We** - The questions we should ask ourselves as a working group before starting this part of the 
 process. Answers should be saved so we can look back at how our thought process evolves.
 
 * Whom did I collaborate with in the process of training this model and building the strategy?
@@ -150,7 +150,7 @@ process. Answers should be saved so we can look back at how our thought process 
   Information (PII), Payment Card Industry (PCI) data, and Protected Health Information (PHI), and 
   have we considered GDPR, CCPA or any other systems for managing data sources?
 
-It - The questions we should ask ourselves of the algorithms or models before starting this part of 
+**It** - The questions we should ask ourselves of the algorithms or models before starting this part of 
 the process. Answers should be saved so we can look back at how our thought process evolves.
 
 * Where did the model come from or was it developed from scratch?
@@ -174,7 +174,7 @@ the process. Answers should be saved so we can look back at how our thought proc
 
 ### Step 3. Testing - Managing Test Data and Tagging
 
-Me - The questions I should ask myself before starting this part of the process. Answers should be 
+**Me** - The questions I should ask myself before starting this part of the process. Answers should be 
 saved so you can look back at how your thought process evolves.
 
 * Is the data I'm using for testing sufficient for analysing how the model performs?
@@ -190,7 +190,7 @@ saved so you can look back at how your thought process evolves.
 * Did the results of the training data and feedback from taggers match the original intent I had when 
   creating the model. If not, what differed and how do I know it differed?
 
-We - The questions we should ask ourselves as a working group before starting this part of the 
+**We** - The questions we should ask ourselves as a working group before starting this part of the 
 process. Answers should be saved so we can look back at how our thought process evolves.
 
 * How do we evaluate the performance and outcomes of this model?
@@ -212,7 +212,7 @@ process. Answers should be saved so we can look back at how our thought process 
 * Was the intention of the working group realised now that the model has run and been tested? If not, 
   explain in detail with quantifiable data.
 
-It - The questions we should ask ourselves of the algorithms or models before starting this part of 
+**It** - The questions we should ask ourselves of the algorithms or models before starting this part of 
 the process. Answers should be saved so we can look back at how our thought process evolves.
 
 * Did the results of the test or tagged data match our intent for the model outputs?
