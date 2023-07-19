@@ -1,4 +1,4 @@
-# A Standard for Responsible AI
+# Me-We-It: A Standard for Responsible AI
 
 This is an Open Suggestion designed to clarify the process of building AI by exposing the steps that 
 go into building it responsibly. It is written from the frontlines by the actual builders, users, and 
@@ -22,7 +22,7 @@ privacy and safety concerns, steal intellectual property not created for the pro
 biases that cause harm. Without careful consideration and planning, we risk creating AI systems that 
 worsen the very problems we seek to solve.
 
-## Framework
+## Open Suggestions Framework
 
 These are the first questions and considerations we believe every AI team and individual builder 
 should take everyday to ensure we are releasing more ethical AI models. They are intended to be 
