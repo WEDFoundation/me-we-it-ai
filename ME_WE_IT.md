@@ -1,7 +1,7 @@
 # Me-We-It: A Standard for Responsible AI
 
 This is an Open Suggestion designed to clarify the process of building AI by exposing the steps that 
-go into building it responsibly. It is written from the frontlines by the actual builders, users, and 
+go into creating it responsibly. It is written from the frontlines by the actual builders, users, and 
 stakeholders who have seen the value and damage Artificial Intelligence (AI) can deliver. The goal is 
 to set a healthy tone for the industry while making the process understandable by the public to 
 illuminate how we can build more ethical AI and create a space for the public to freely ask any 
