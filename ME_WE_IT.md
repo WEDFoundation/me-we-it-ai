@@ -72,13 +72,13 @@ be saved so you can look back at how your thought process evolves.
   trained on this data historically?
 * If this is the first time I've used this data, what are my expectations for the impact this data   
   will have on the models outputs?
-* Have you used a Model Card to communicate risks and how will this document be updated with the 
+* Have I used a Model Card to communicate risks and how will this document be updated with the 
   collaboration team?
 * What do I hope the data will do to this model, what is my intention of the outcome and how do I 
   expect the training data will impact that performance?
 * Are there any features that could act as instrumental variables (eg. Granular neighbourhood level 
-  data) for disenfranchised populations, and if so, do you have sufficient controls to ensure that 
-  you are not perpetuating biases that can be learned from the training data?
+  data) for disenfranchised populations, and if so, do I have sufficient controls to ensure that 
+  I am not perpetuating biases that can be learned from the training data?
 * Can I summarise what is in this training data in a way that captures the essence of the data in a 
   way a non-data scientist can understand?
 * Do I feel rushed or pressured to input data from questionable sources?
