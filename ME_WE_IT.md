@@ -1,17 +1,23 @@
 # Me-We-It: An Open Standard for Responsible AI
 
 This is an Open Suggestion designed to clarify the process of building AI by exposing the steps that 
-go into creating it responsibly. It is written from the frontlines by the actual builders, users, and 
-stakeholders who have seen the value and damage Artificial Intelligence (AI) can deliver. The goal is 
-to set a healthy tone for the industry while making the process understandable by the public to 
-illuminate how we can build more ethical AI and create a space for the public to freely ask any 
-question they may have of the AI and data science community.
+go into creating it responsibly. It is an open suggestion proposed by people who have seen the value AI can generate and the damage it can cause. Among these people are:
 
-Today we're seeing many doomerism narratives that play into hysteria and obfuscate the structures of 
-AI instead of focusing on clear, accountable communication that enables honest discussion and assists 
-decision making. The creation of AI can be a technically involved process but the standard approaches 
-to teach machines and the outputs created can be monitored and validated in this simple framework 
-that enables everyone to have a seat at the table regardless of a person's data science background.
+* experienced specialists in technology, data science, or research;
+* frontline stakeholders, including developers;
+* users concerned with the impact of AI.
+
+## What's the point of this open standard?
+
+It has three goals:
+
+1. to give some advice to build more ethical AI to help the industry start again on healthy foundations,
+2. to help the public understand the process of building an AI, and
+3. to create a space in which the public can freely ask any questions to the IA and data science community.
+
+This Open Suggestion will live as a free online forum, and we invite new suggestions and approaches under the important banner of registering intent.
+
+Today we hear many catastrophism narratives that feed into ambient hysteria and maintain the opacity of AI systems. Yet, we need clear, responsible communication to engage in honest discussion and make the right decisions. The creation of an AI involves significant technical work, but this open standard enables any interested person to take part in the discussions, regardless of their data science knowledge level. To this end, it offers a simple framework for monitoring and validating standard approaches to the training of machines and the results they produce.
 
 Now more than ever, it's necessary to share how AI learns so that we can hold each other accountable 
 without severely restricting innovation. The development of AI has the potential to bring about 
@@ -19,26 +25,21 @@ significant benefits, including increased efficiency, improved decision making, 
 and the ability to tackle problems that were previously impossible to solve. However, AI can also 
 force human moderators to witness horrible content, disadvantage the disenfranchised, amplify data 
 privacy and safety concerns, steal intellectual property not created for the process, and perpetuate 
-biases that cause harm. Without careful consideration and planning, we risk creating AI systems that 
+harmful biases. Without careful consideration and planning, we risk creating AI systems that 
 worsen the very problems we seek to solve.
 
-## Open Suggestions Framework
+## First version of the open standard
 
 These are the first questions and considerations we believe every AI team and individual builder 
 should ask every day to ensure we are releasing more ethical AI models. They are intended to be 
 communicated in simple language without technical jargon to ensure the process can be understood by 
-every audience and will be translated over time into every local human language where we can find 
+every audience. It will be translated over time into every language where we can find 
 volunteers to support. We know we are unlikely to get this completely right, especially when dealing 
 with a technology that requires continuous tracking, but with your help each iteration will bring 
 meaningful improvements. This is version 1 of many future versions that developers can use when 
-assessing our work. The community will help it as we collect more questions from the public and 
-suggestions from the data science community to refine the list and capture the necessary steps that 
-should be taken to clarify and validate our intentions.
+assessing our work. We can refine this list with your help, thanks to questions from the public and suggestions from the data science community. Such contributions will help us account for the steps that should be taken to clarify and validate our intentions.
 
-As policy makers frantically race to catch up with regulation, and the EU AI Act signals it may add 
-GPAI (General Purpose AI) to the high risk category, we are here to set an actionable standard every 
-team can use immediately that also clarifies how AI is built so we can reduce silos and discuss as a 
-group. Instead of an Open Letter, this is an Open Suggestion from a group of experienced 
+Political decision-makers are buckling down to make up for lost time in terms of regulation, and the EU's legislation on artificial intelligence may add general-purpose AI to the category of high-risk AI systems. In the meantime, we offer you a solution to reduce silos and engage in a group discussion: a practical standard, which any team can use immediately, and which clarifies how AI is built. Instead of an Open Letter, this is an Open Suggestion from a group of experienced 
 technologists, data scientists, researchers, and people concerned with the impact of AI.
 
 This Open Suggestion will live as a free online forum, and we invite new suggestions and approaches 
@@ -94,7 +95,7 @@ be saved so I can look back at how my thought process evolves.
 * Is the team of people who are working on selecting the training data from a diverse set of 
   backgrounds and experiences to help reduce the bias in the data selection?
 * What are the likely biases inherent in this team that selected the training data?
-* Does the whole team understand where the train data came from? Can they explain it back in 
+* Does the whole team understand where the training data came from? Can they explain it back in 
   their own words?
 * Is a Model Card being used to communicate risks? Did each contributor create their own document  
   that can be shared with the larger team?
@@ -186,7 +187,7 @@ saved so I can look back at how my thought process evolves.
   about all the potentially bad outcomes that could result from our work that we should be testing 
   for before we go live?
 * Do I believe we have been thorough in our testing strategy and deployment to ensure we have 
-  unearthed any issues that could arise from the models outputs?
+  unearthed any issues that could arise from the model's outputs?
 * Did the results of the training data and feedback from taggers match the original intent I had when 
   creating the model? If not, what differed and how do I know it differed?
 
@@ -202,7 +203,7 @@ process. Answers should be saved so we can look back at how our thought process 
 * Does the tagging strategy align with the training data and model creation strategy?
 * Is there an appropriate amount of diversity on my data tagging team?
 * What human biases might impact the tagging or testing process?
-* Is user testing in the live environment data being collected? How will it feed back into an 
+* Is user testing data in the live environment being collected? How will it feed back into an 
   iterative process?
 * Is the user group a diverse audience that is representative of the future total user group?
 * Is it possible that bias is a programmatic result of the model?
