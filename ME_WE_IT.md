@@ -13,11 +13,11 @@ It has three goals:
 
 1. to give some advice to build more ethical AI to help the industry start again on healthy foundations,
 2. to help the public understand the process of building an AI, and
-3. to create a space in which the public can freely ask any questions to the IA and data science community.
+3. to create a space in which the public can freely ask any questions to the AI and data science community.
 
 This Open Suggestion will live as a free online forum, and we invite new suggestions and approaches under the important banner of registering intent.
 
-Today we hear many catastrophism narratives that feed into ambient hysteria and maintain the opacity of AI systems. Yet, we need clear, responsible communication to engage in honest discussion and make the right decisions. The creation of an AI involves significant technical work, but this open standard enables any interested person to take part in the discussions, regardless of their data science knowledge level. To this end, it offers a simple framework for monitoring and validating standard approaches to the training of machines and the results they produce.
+We need clear, responsible communication to engage in honest discussion and make the right decisions. The creation of an AI involves significant technical work, but this open standard enables any interested person to take part in the discussions, regardless of their data science knowledge level. To this end, it offers a simple framework for monitoring and validating standard approaches to the training of machines and the results they produce.
 
 Now more than ever, it's necessary to share how AI learns so that we can hold each other accountable 
 without severely restricting innovation. The development of AI has the potential to bring about 
