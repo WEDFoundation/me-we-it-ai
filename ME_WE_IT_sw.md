@@ -1,4 +1,4 @@
-﻿# Me-We-It: Kiwango Wazi kwa AI yenye Uwajibikaji
+﻿## Me-We-It: Kiwango Wazi kwa AI yenye Uwajibikaji
 
 Hii ni Mapendekezo Wazi iliyoundwa kufafanua mchakato wa kujenga AI kwa kufichua hatua zinazohusika katika kuunda kwa uwajibikaji. Ni mapendekezo wazi yaliyopendekezwa na watu ambao wameona thamani ambayo AI inaweza kuzalisha na uharibifu inaweza kusababisha. Miongoni mwa watu hawa ni:
 
