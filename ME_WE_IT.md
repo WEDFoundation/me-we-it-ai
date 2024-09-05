@@ -74,7 +74,7 @@ be saved so I can look back at how my thought process evolves.
   will have on the models outputs?
 * Have I used a Model Card to communicate risks? How will this document be updated with the 
   collaboration team?
-* What do I hope the data will do to this model? What is my intention of the outcome? How do I 
+* What do I hope the data will do to this model? What is my intention for the outcome? How do I 
   expect the training data will impact that performance?
 * Are there any features that could act as instrumental variables (eg. granular neighbourhood level 
   data) for disenfranchised populations? If so, do I have sufficient controls to ensure that 
