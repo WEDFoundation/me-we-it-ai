@@ -39,11 +39,10 @@ with a technology that requires continuous tracking, but with your help each ite
 meaningful improvements. This is version 1 of many future versions that developers can use when 
 assessing our work. We can refine this list with your help, thanks to questions from the public and suggestions from the data science community. Such contributions will help us account for the steps that should be taken to clarify and validate our intentions.
 
-Political decision-makers are buckling down to make up for lost time in terms of regulation, and the EU's legislation on artificial intelligence may add general-purpose AI to the category of high-risk AI systems. In the meantime, we offer you a solution to reduce silos and engage in a group discussion: a practical standard, which any team can use immediately, and which clarifies how AI is built. Instead of an Open Letter, this is an Open Suggestion from a group of experienced 
+Political decision-makers are moving fast to close regulatory gaps, particularly with the EU AI Act fully enforced and general-purpose AI now officially regulated as a distinct category, complete with systemic-risk obligations. In the meantime, we offer you a solution to reduce silos and engage in a group discussion: a practical standard, which any team can use immediately, and which clarifies how AI is built. Instead of an Open Letter, this is an Open Suggestion from a group of experienced 
 technologists, data scientists, researchers, and people concerned with the impact of AI.
 
-This Open Suggestion will live as a free online forum, and we invite new suggestions and approaches 
-under the important banner of registering intent. The steps are isolated based on the core elements 
+The steps are isolated based on the core elements 
 of building AI (Training, Building, Testing) and the actors who engage in the process to help clarify 
 the importance of silo reduction: Me, We, It.
 
